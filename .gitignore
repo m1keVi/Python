@@ -1,0 +1,125 @@
+/.ico.spec
+/.idea
+/.vs
+/.vscode
+/1.txt
+/1test zapisu.png
+/2.txt
+/2test zapisu.png
+/allegro_favicon.ico
+/build
+/choinka.txt
+/classy - oddzielny plik.py
+/classy.py
+/classy_rozwiniecie.py
+/classy_rozwiniecie2.py
+/credentials.json
+/csv.xlsx
+/csvimport.py
+/cuda.py
+/Cwiczenia
+/czlowiek.py
+/data.txt
+/dist
+/eth_tut10.ipynb
+/Etykiety
+/fajne_funkcje.py
+/funkcja potegujaca.py
+/funkcje.py
+/geckodriver.log
+/generator_lokacji.py
+/generator_lokacji.spec
+/gra slowna.py
+/gra w zgadywanie.py
+/ify.py
+/ip.txt
+/jupyter-stackoverflow.ipynb
+/kalkulator.py
+/kody 1d.py
+/KODY 1D_DICT.py
+/kody_qr_text.py
+/kolejny_kurs.py
+/kolejny_kurs_2_break.py
+/kolejny_kurs_2_continue.py
+/kolejny_kurs_2_czytanie_plikow.py
+/kolejny_kurs_2_dictionary_comprehension.py
+/kolejny_kurs_2_dokumentowanie_funkcji.py
+/kolejny_kurs_2_dowolna_liczba_argumentow.py
+/kolejny_kurs_2_dowolna_liczba_argumentow_kargs.py
+/kolejny_kurs_2_funkcje_wbudowane.py
+/kolejny_kurs_2_generatory.py
+/kolejny_kurs_2_instrukcje_warunkowe.py
+/kolejny_kurs_2_lambda.py
+/kolejny_kurs_2_listy.py
+/kolejny_kurs_2_list_comprehension.py
+/kolejny_kurs_2_petla_while.py
+/kolejny_kurs_2_petle.py
+/kolejny_kurs_2_projekt_generator_logow.py
+/kolejny_kurs_2_set_comprehension.py
+/kolejny_kurs_2_skrypty.py
+/kolejny_kurs_2_slowniki.py
+/kolejny_kurs_2_tuple.py
+/kolejny_kurs_2_wartosci_logiczne.py
+/kolejny_kurs_2_warunki_for.py
+/kolejny_kurs_2_wlasne_funkcje.py
+/kolejny_kurs_2_Zakres zmiennych - global, local, nonlocal.py
+/kolejny_kurs_2_zapisywanie_do_pliku.py
+/kolejny_kurs_2_zbiory.py
+/lepszy kalkulator.py
+/listy 2d i petla w petli.py
+/listy.py
+/lokacje_nowe.txt
+/moduly i pakiety
+/moduly.py
+/moduly2.py
+/nauczyciel.py
+/odczyt z pliku.py
+/operatory porownania.py
+/petla for.py
+/petla while.py
+/pliki_csv.ipynb
+/plik_csv.py
+/Programowanie obiektowe
+/Pytanie.py
+/qr.png
+/qrcode001.png
+/quiz.py
+/reading
+/return_funkcje.py
+/sample.xlsx
+/sample2.txt
+/sample3.txt
+/simple.txt
+/slowniki.py
+/stack_groupingaggreegate.ipynb
+/test qr.py
+/test.csv
+/test.py
+/test.txt
+/test.xlsx
+/testsnippets2.ipynb
+/Testy Jednostkowe
+/testytesty.py
+/testy_moje.py
+/test_cliboard_tkinter.py
+/test_clipboard_tkinter2.spec
+/test_clipboard_tkinter3.py
+/test_input.txt
+/test_inputu.txt
+/test_multicsv.ipynb
+/test_zapisu.txt
+/test_zapisu2.txt
+/tewst.ipynb
+/tlumacz.py
+/tree.txt
+/try except.py
+/tuples.py
+/uczen.py
+/uczen2.py
+/Untitled-1.json
+/Untitled-3.py
+/Untitled-4.py
+/web_scrap.spec
+/web_scrap_v2.py
+/zapis do pliku.py
+/__pycache__
