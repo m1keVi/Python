@@ -5,3 +5,4 @@
 
 # web_scrap.py
 # scrap zebra printers status over http
+"# ZebraStatusChecks" 
